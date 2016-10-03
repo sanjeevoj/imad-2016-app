@@ -11,7 +11,7 @@ var articles = {
 	heading:'Sree Narayana Guru',
 	date:'Sept 27, 2016',
 	content:`<p>
-				Narayana Guru, also known as Sree Narayana Guru (c. 1856 – 20 September 1928) was a social reformer of India. He was born into a Kerala family in an era when people from such communities, which were regarded as Avarna, faced much social injustice in the caste-ridden society of Kerala. 
+				Narayana Guru, also known as Sree Narayana Guru (c. 1856 to 20 September 1928) was a social reformer of India. He was born into a Kerala family in an era when people from such communities, which were regarded as Avarna, faced much social injustice in the caste-ridden society of Kerala. 
 				</p>
 				<p>
 				He led a reform movement in Kerala, rejected casteism, and promoted new values of spiritual freedom and social equality.[1] He stressed the need for the spiritual and social uplift of the downtrodden by their own efforts through the establishment of temples and educational institutions. 
