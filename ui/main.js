@@ -66,7 +66,7 @@ submit.onclick = function(){
 	//Make the request
 	var nameInput = document.getElementById("name");
 	var name = nameInput.value;
-	request.open('GET',"http://localhost:8080/submit-name?name=" + name, true);
+	request.open('GET',"http://sanjeevoj.imad.hasura-app.io/submit-name?name=" + name, true);
 	request.send(null);
 	
 	// Make request to the server and send the name
