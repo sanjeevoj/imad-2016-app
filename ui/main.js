@@ -31,7 +31,7 @@ button.onclick = function(){
 	}
 	//Render the variable in the correct span
 	//Make the request
-	request.open('GET',"http://localhost:8080/counter", true);
+	request.open('GET',"http://sanjeevoj.imad.hasura-app.io/counter", true);
 	request.send(null);
 	
 };
